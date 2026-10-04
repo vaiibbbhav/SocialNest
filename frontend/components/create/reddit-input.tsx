@@ -32,7 +32,7 @@ export function RedditInput({ value, onChange }: RedditInputProps) {
           x="0px"
           y="0px"
           width="20"
-          height="20"
+          height="20" 
           viewBox="0 0 48 48"
         >
           <path
